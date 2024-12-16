@@ -3,7 +3,10 @@ file = r'day10\data.txt'
 with open(file) as file:
     data = file.read()
     data = data.split('\n')
+  
 
+
+  #Testing the modifitcations
 
 
     
